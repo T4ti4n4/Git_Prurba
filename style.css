@@ -1,0 +1,10 @@
+#color{
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: black solid 3px;
+}
+
+input{
+    border-radius: 2px;
+    color:black;
+}
