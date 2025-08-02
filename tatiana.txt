@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Hola Tatiana!
 
-Adios!
-
-=======
->>>>>>> 8288cc434ff90bbf4c73414d5fbf80c0ed22e0fb
